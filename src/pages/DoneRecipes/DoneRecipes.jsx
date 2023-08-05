@@ -79,11 +79,9 @@ function DoneRecipes() {
                           <div className="container-share-favorite-btns-done">
                             <Card.Text>
                               {new Date(recipe.doneDate).toLocaleDateString()}
-                              <br />
                               { recipe.type !== 'drink'
-                                ? `Nationality: ${recipe.nationality} - ${recipe.category}`
+                                ? `Nationality: ${recipe.nationality}-${recipe.category}`
                                 : `${recipe.alcoholicOrNot}`}
-                              <br />
                               {recipe.tags.length > 0 && recipe.tags.map((tag) => (
                                 <span
                                   key={ tag }
