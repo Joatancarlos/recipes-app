@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/recipes-app/static/css/main.87e10a6a.css",
+    "main.js": "/recipes-app/static/js/main.cee1ecfc.js",
+    "static/media/drinks-favorites.png": "/recipes-app/static/media/drinks-favorites.14e444035f1338b6e942.png",
+    "static/media/meals-favorite.png": "/recipes-app/static/media/meals-favorite.81c8ec757da9f1848b10.png",
+    "static/media/all-favorites.png": "/recipes-app/static/media/all-favorites.955c05e778fe79d19e59.png",
+    "static/media/cesto-de-frutas.jpg": "/recipes-app/static/media/cesto-de-frutas.41ae7b4110468edc0709.jpg",
+    "static/media/recipe-meals-red.png": "/recipes-app/static/media/recipe-meals-red.65a96c9c0ee767767f39.png",
+    "static/media/drinks-footer2.png": "/recipes-app/static/media/drinks-footer2.0c4d3aadb99ed1ca2a6a.png",
+    "static/media/meals-footer2.png": "/recipes-app/static/media/meals-footer2.9b1a3ec38690e3fac381.png",
+    "static/media/drinks-background2.png": "/recipes-app/static/media/drinks-background2.1ee7c2c2d2592dc6a3c0.png",
+    "static/media/Crop_Cook-it-Simple.svg": "/recipes-app/static/media/Crop_Cook-it-Simple.d1302c003e8c0d9967c3775000b08cb3.svg",
+    "static/media/cocoa-icon.png": "/recipes-app/static/media/cocoa-icon.c3e11c869764395f6978.png",
+    "static/media/beaf-icon.png": "/recipes-app/static/media/beaf-icon.fd9619090af06b0316ff.png",
+    "static/media/others-drinks.png": "/recipes-app/static/media/others-drinks.ebac6ebb269e788a534c.png",
+    "static/media/dessert-icon.png": "/recipes-app/static/media/dessert-icon.24de14a70aef3d3ad366.png",
+    "static/media/goat-icon.png": "/recipes-app/static/media/goat-icon.dec360d5d1412f2cc3ff.png",
+    "static/media/shake.png": "/recipes-app/static/media/shake.38f264eca8de249494db.png",
+    "static/media/all-icon.png": "/recipes-app/static/media/all-icon.d0c3d3d1a5259164cf30.png",
+    "static/media/chicken-icon.png": "/recipes-app/static/media/chicken-icon.80b73d76687129e0531d.png",
+    "static/media/all-icon-drinks.png": "/recipes-app/static/media/all-icon-drinks.7e6f9852a251d306c69d.png",
+    "static/media/cocktail-icon.png": "/recipes-app/static/media/cocktail-icon.3631357bc6b535a94402.png",
+    "static/media/ordinary-drinks.png": "/recipes-app/static/media/ordinary-drinks.ab5ad44b7f7fd5d18cfc.png",
+    "static/media/breakfast-icon.png": "/recipes-app/static/media/breakfast-icon.6d7191d0f49aa8de0cdc.png",
+    "static/media/shareIcon.svg": "/recipes-app/static/media/shareIcon.87def1bd1dff9af9263f046c3b9bd31a.svg",
+    "static/media/profileIcon.svg": "/recipes-app/static/media/profileIcon.44eb3608f431845fe2fc2d2a23d758ae.svg",
+    "static/media/whiteHeartIcon.svg": "/recipes-app/static/media/whiteHeartIcon.2b822118952dc5140129c6349fcd0472.svg",
+    "static/media/searchIcon.svg": "/recipes-app/static/media/searchIcon.7353564d025de989f86f66ecb0202a04.svg",
+    "static/media/blackHeartIcon.svg": "/recipes-app/static/media/blackHeartIcon.083cb006913d197c95857ebfa2161db7.svg",
+    "index.html": "/recipes-app/index.html",
+    "main.87e10a6a.css.map": "/recipes-app/static/css/main.87e10a6a.css.map",
+    "main.cee1ecfc.js.map": "/recipes-app/static/js/main.cee1ecfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87e10a6a.css",
+    "static/js/main.cee1ecfc.js"
+  ]
+}
