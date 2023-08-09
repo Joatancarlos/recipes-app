@@ -66,7 +66,7 @@ export default function MealsInProgress() {
     const newChecked = [...checked];
     newChecked[indice] = !newChecked[indice];
     setChecked(newChecked);
-    disableButton(progress.newChecked, setDisabled);
+    disableButton(newChecked, setDisabled);
     const progressData = getSavedProgress('inProgressRecipes');
     if (Object.keys(progressData).includes('meals')) {
       let objLocalStorage;
